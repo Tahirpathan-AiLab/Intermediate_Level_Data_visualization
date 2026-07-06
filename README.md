@@ -97,7 +97,7 @@ The visualization includes customized axis labels, grid lines, legends, figure s
 
 ---
 
-## Technologies I Used
+## The Technologies I Used
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
