@@ -115,7 +115,7 @@ The visualization includes customized axis labels, grid lines, legends, figure s
 
 ---
 
-## Output
+## Output 
 
 After successful execution, the script generates:
 
